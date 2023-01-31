@@ -2,6 +2,15 @@
 
 Meu nome é Amanda, mas isso você já notou.
 
+![ATS - FOTO](https://user-images.githubusercontent.com/103841276/215842417-4653b8ca-f2ac-455a-9ce7-582dafc98432.jpg)
+
+
+## Atualmente estudando
+- JavaScript
+- CSS
+- HTML
+- Git e GitHub
+
 ## Passatempo
 - Quebra-cabeças
 - Filmes, muitos filmes
@@ -12,11 +21,7 @@ Meu nome é Amanda, mas isso você já notou.
 - Caminhar
 - Meditação (ainda em construção)
 
-## Atualmente estudando
-- JavaScript
-- CSS
-- HTML
-- Git e GitHub
+
 
 ## Contato
 - Instagram: amandatrindade90
