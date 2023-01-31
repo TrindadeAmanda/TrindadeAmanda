@@ -11,7 +11,7 @@ Meu nome é Amanda, mas isso você já notou.
 - HTML
 - Git e GitHub
 
-## Passatempo
+## Passatempos
 - Quebra-cabeças
 - Filmes, muitos filmes
 - Jogos de tabuleiro
